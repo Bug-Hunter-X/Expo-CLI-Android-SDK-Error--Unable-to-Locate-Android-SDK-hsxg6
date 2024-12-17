@@ -1,0 +1,1 @@
+This error typically occurs when the Expo CLI cannot locate or access the necessary Android SDK components during the build process. This can stem from various reasons, such as incorrect environment configuration, missing or corrupted SDK files, or problems with the Android SDK Manager itself.
